@@ -1,6 +1,6 @@
 import random
 from typing import List
-from Door import Door
+from door import Door
 
 class Player:
     """プレイヤーのクラス"""

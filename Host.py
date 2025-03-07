@@ -1,6 +1,6 @@
 import random
 from typing import List
-from Door import Door
+from door import Door
 
 class Host:
     """司会者のクラス"""

@@ -1,5 +1,5 @@
 import sys
-from Game import MontyHallGame
+from game import MontyHallGame
 
 def main():
     """ゲームの実行と結果の表示を行うメイン関数"""

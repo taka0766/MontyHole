@@ -1,8 +1,8 @@
 import random
 from typing import List
-from Door import Door
-from Player import Player
-from Host import Host
+from door import Door
+from player import Player
+from host import Host
 
 class MontyHallGame:
     """モンティ・ホールゲームの進行を管理するクラス"""
