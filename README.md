@@ -54,7 +54,7 @@ However, **switching doors actually gives you a 2/3 chance of winning**, while s
 
 ```bash
 1000000回ゲームを施行し、
-選択肢を変更しない場合 :  332334 回正解
+選択肢を変更しない場合 :  332344 回正解
 選択肢を変更した場合   : 667656 回正解
 しました。
 
